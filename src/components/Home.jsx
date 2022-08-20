@@ -20,7 +20,8 @@ function Home() {
             on building accessible, human-centered products at Upwork.
           </p>
           <a
-            href="mailto:zehadhasanlive@gmail.com"
+   //    href="mailto:zehadhasanlive@gmail.com"
+            href="mailto:ghareb4@gmail.com"
             className=" border border-links py-3 px-9 text-links rounded-borderBtn transition-all ease-in-out duration-300 hover:bg-links/10 inline-block mt-6"
           >
             Get In Touch!
