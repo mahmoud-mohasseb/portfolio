@@ -15,7 +15,7 @@ function About() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mt-10">
           <div>
             <p className="text-sub mb-7">
-              Hello! My name is Zehad Hasan and I enjoy creating things that
+              Hello! My name is Mahmoud Ahmed and I enjoy creating things that
               live on the internet. My interest in web development started back
               in 2018 when I decided to try editing custom Tumblr themes — turns
               out hacking together a custom reblog button taught me a lot about
