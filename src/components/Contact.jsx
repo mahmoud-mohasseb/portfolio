@@ -17,7 +17,7 @@ function Contact() {
             say hi, I’ll try my best to get back to you!
           </p>
           <a
-            href="mailto:zehadhasanlive@gmail.com"
+            href="ghareb4@gmail.com"
             className="border border-links py-3 px-9 text-links rounded-borderBtn transition-all ease-in-out duration-300 hover:bg-links/10 inline-block mt-6"
           >
             Say Hello!
